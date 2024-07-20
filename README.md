@@ -1,7 +1,7 @@
 # Fluidchen Python Optimization Project
 
 <div style="text-align: center">
-  ![Project Logo](PyFluid.png){ width="200" height="50" }
+  <img src="PyFluid.png" alt="Project Logo" style="width:200px; height:200px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ## Project Overview
@@ -37,8 +37,11 @@ Create and activate a virtual environment to manage dependencies:
 python -m venv venv
 
 # Activate the virtual environment
-# Depending on your operating system, use the appropriate command below:
+# On Windows
+venv\Scripts\activate
 
+# On macOS/Linux
+source venv/bin/activate
 ```
 
 ### Step 2: Install Dependencies
