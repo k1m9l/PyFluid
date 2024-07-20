@@ -62,5 +62,5 @@ The dashboard will be accessible at http://127.0.0.1:8050/ in your web browser.
 - Detailed project metrics
 - User-friendly interface
 
-The resulting Dashboard is the final presentation as well as the documentation of our project. It includes various interactive components and visualizations that allow users to explore the project data in depth.
+The resulting Dashboard is the final presentation as well as the documentation of my project. It includes various interactive components and visualizations that allow users to explore the project data in depth.
 ```
