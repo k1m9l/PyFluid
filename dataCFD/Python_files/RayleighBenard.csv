@@ -1,0 +1,7 @@
+sor_Solve,calc_Fluxes,applyPressure,calc_Vel,calc_Rs,calc_temp,sor_Solve_optimized,calc_Fluxes_optimized,applyPressure_optimized,calc_Vel_optimized,calc_Rs_optimized,calc_temp_optimized,simulation_time,html_file
+593.11,1650.99,46.69,96.05,93.13,389.43,False,False,False,False,False,False,2964.23,./dataCFD/measurements/first_iteration/RayleighBenard0.html
+,1646.09,47.06,94.17,91.67,390.01,True,False,False,False,False,False,2363.09,./dataCFD/measurements/second_iteration/RayleighBenard0.html
+,,47.13,98.79,95.16,397.82,True,True,False,False,False,False,736.90,./dataCFD/measurements/third_iteration/RayleighBenard0.html
+,,21.57,100.47,96.22,408.91,True,True,True,False,False,False,726.91,./dataCFD/measurements/fourth_iteration/RayleighBenard0.html
+,,22.06,,95.74,396.36,True,True,True,True,True,False,614.78,./dataCFD/measurements/fifth_iteration/RayleighBenard0.html
+,,21.25,,,398.59,True,True,True,True,True,False,519.89,./dataCFD/measurements/sixth_iteration/RayleighBenard0.html

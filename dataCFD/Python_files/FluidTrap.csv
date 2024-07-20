@@ -1,0 +1,12 @@
+sor_Solve,calc_Fluxes,applyPressure,calc_Vel,calc_Rs,calc_temp,sor_Solve_optimized,calc_Fluxes_optimized,applyPressure_optimized,calc_Vel_optimized,calc_Rs_optimized,calc_temp_optimized,simulation_time,html_file
+470.31,936.57,19.215,55.45,52.53,219.48,False,False,False,False,False,False,1799.77,./dataCFD/measurements/first_iteration/FluidTrap0.html
+,897.20,18.76,51.97,49.90,208.62,True,False,False,False,False,False,1271.73,./dataCFD/measurements/second_iteration/FluidTrap0.html
+,,18.85,54.16,51.83,218.90,True,True,False,False,False,False,391.71,./dataCFD/measurements/third_iteration/FluidTrap0.html
+,,5.74,54.95,52.55,219.70,True,True,True,False,False,False,382.07,./dataCFD/measurements/fourth_iteration/FluidTrap0.html
+,,5.74,,52.70,216.71,True,True,True,True,False,False,324.78,./dataCFD/measurements/fifth_iteration/FluidTrap0.html
+,,6.00,,,217.37,True,True,True,True,True,False,272.65,./dataCFD/measurements/sixth_iteration/FluidTrap0.html
+462.65,,19.12,54.64,52.77,215.58,False,True,False,False,False,False,2531.66,./dataCFD/measurements/temperatureSimulations/second_iteration/FluidTrap0.html
+,,20.09,59.02,55.98,226.97,True,True,False,False,False,False,1238.17,./dataCFD/measurements/temperatureSimulations/third_iteration/FluidTrap0.html
+,2.25,20.33,58.14,56.11,,True,True,False,False,False,True,527.37,./dataCFD/measurements/temperatureSimulations/fourth_iteration/FluidTrap0.html
+1.43,2.39,20.06,,55.13,1.48,True,True,False,True,False,True,385.88,./dataCFD/measurements/temperatureSimulations/fifth_iteration/FluidTrap0.html
+1.52,2.16,18.56,,,1.46,True,True,False,True,True,True,68.48,./dataCFD/measurements/temperatureSimulations/sixth_iteration/FluidTrap0.html

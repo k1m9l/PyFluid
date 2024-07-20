@@ -1,0 +1,7 @@
+sor_Solve,calc_Fluxes,applyPressure,calc_Vel,calc_Rs,calc_temp,sor_Solve_optimized,calc_Fluxes_optimized,applyPressure_optimized,calc_Vel_optimized,calc_Rs_optimized,calc_temp_optimized,simulation_time,html_file
+1651.59,914.65,115.37,56.80,55.17,,False,False,False,False,False,False,2843.93,./dataCFD/measurements/first_iteration/ChannelWithBFS0.html
+,904.14,111.03,55.83,54.12,,True,False,False,False,False,False,1173.40,./dataCFD/measurements/second_iteration/ChannelWithBFS0.html
+3.39,,116.91,61.35,58.87,,True,True,False,False,False,False,289.76,./dataCFD/measurements/third_iteration/ChannelWithBFS0.html
+3.36,2.55,24.53,60.00,57.72,,True,True,True,False,False,False,192.02,./dataCFD/measurements/fourth_iteration/ChannelWithBFS0.html
+3.55,2.63,25.02,,55.65,,True,True,True,True,False,False,128.35,./dataCFD/measurements/fifth_iteration/ChannelWithBFS0.html
+2.95,2.42,24.13,,,,True,True,True,True,True,False,70.40,./dataCFD/measurements/sixth_iteration/ChannelWithBFS0.html

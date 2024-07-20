@@ -1,0 +1,7 @@
+sor_Solve,calc_Fluxes,applyPressure,calc_Vel,calc_Rs,calc_temp,sor_Solve_optimized,calc_Fluxes_optimized,applyPressure_optimized,calc_Vel_optimized,calc_Rs_optimized,calc_temp_optimized,simulation_time,html_file
+1094.39,106.15,57.67,,,,False,False,False,False,False,False,1287.18,./dataCFD/measurements/first_iteration/ChannelWithObstacle0.html
+2.60,104.45,55.98,6.72,6.43,,True,False,False,False,False,False,187.47,./dataCFD/measurements/second_iteration/ChannelWithObstacle0.html
+2.30,1.79,54.23,6.56,6.23,,True,True,False,False,False,False,82.34,./dataCFD/measurements/third_iteration/ChannelWithObstacle0.html
+1.86,1.75,42.83,7.79,7.41,,True,True,True,False,False,False,71.97,./dataCFD/measurements/fourth_iteration/ChannelWithObstacle0.html
+6.48,1.98,38.39,,8.40,,True,True,True,True,False,False,73.77,./dataCFD/measurements/fifth_iteration/ChannelWithObstacle0.html
+4.93,1.93,45.73,,,,True,True,True,True,True,False,65.15,./dataCFD/measurements/sixth_iteration/ChannelWithObstacle0.html

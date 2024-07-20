@@ -1,0 +1,12 @@
+sor_Solve,calc_Fluxes,applyPressure,calc_Vel,calc_Rs,calc_temp,sor_Solve_optimized,calc_Fluxes_optimized,applyPressure_optimized,calc_Vel_optimized,calc_Rs_optimized,calc_temp_optimized,simulation_time,html_file
+1262.34,3091.74,,176.69,170.65,719.19,False,False,False,False,False,False,5589.82,./dataCFD/measurements/first_iteration/NaturalConvection0.html
+,2999.00,48.85,176.83,171.05,704.09,True,False,False,False,False,False,4217.94,./dataCFD/measurements/second_iteration/NaturalConvection0.html
+,,48.53,176.52,170.50,741.43,True,True,False,False,False,False,1259.21,./dataCFD/measurements/third_iteration/NaturalConvection0.html
+,,16.89,176.16,171.58,714.25,True,True,True,False,False,False,1203.49,./dataCFD/measurements/fourth_iteration/NaturalConvection0.html
+,,17.57,,167.19,733.84,True,True,True,True,False,False,1040.03,./dataCFD/measurements/fifth_iteration/NaturalConvection0.html
+,,17.37,,,734.67,True,True,True,True,True,False,874.84,./dataCFD/measurements/sixth_iteration/NaturalConvection0.html
+1284.10,,49.17,176.51,170.39,725.05,False,True,False,False,False,False,2531.66,./dataCFD/measurements/temperatureSimulations/second_iteration/NaturalConvection0.html
+,,48.46,174.94,168.48,724.99,True,True,False,False,False,False,1238.17,./dataCFD/measurements/temperatureSimulations/third_iteration/NaturalConvection0.html
+,,48.98,179.25,172.56,,True,True,False,False,False,True,527.37,./dataCFD/measurements/temperatureSimulations/fourth_iteration/NaturalConvection0.html
+,,51.52,,176.53,,True,True,False,True,False,True,385.88,./dataCFD/measurements/temperatureSimulations/fifth_iteration/NaturalConvection0.html
+4.07,4.95,53.36,,,2.99,True,True,False,True,True,True,193.72,./dataCFD/measurements/temperatureSimulations/sixth_iteration/NaturalConvection0.html
