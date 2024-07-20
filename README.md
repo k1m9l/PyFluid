@@ -1,5 +1,9 @@
 # Fluidchen Python Optimization Project
 
+<div style="text-align: center">
+  ![Project Logo](PyFluid.png){ width="200" height="50" }
+</div>
+
 ## Project Overview
 
 ### Purpose
